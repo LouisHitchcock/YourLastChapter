@@ -71,4 +71,8 @@ body {
 	    width: 100vw;
 	    height: 50vw;
 	}
+
+	body {
+		place-content: baseline;
+	}
 }
